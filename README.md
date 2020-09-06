@@ -33,9 +33,10 @@ Processing을 이용한 프로젝트들
 ![image](https://user-images.githubusercontent.com/45448731/92331477-d9ab9600-f0b1-11ea-8133-ddeccaeea79a.png)
 
 - 새벽에 하버시티를 갔는데 매장의 불은 다 꺼져있었지만 하늘에 보이는 간판들과 가로등이 빛나는 모습이 마치 형형색색으로 하늘만 빛나고 있는 듯한 느낌이 들었다.
-- ㅇㅇ
+- 마우스를 움직일 때 마다 하늘의 색이 변한다.
 <br>
 
+### 4. 심포니 오브 라이트 
 ![image](https://user-images.githubusercontent.com/45448731/92331479-dadcc300-f0b1-11ea-9664-c3d504f63352.png)
 
 ### ◼ 시연 
