@@ -10,7 +10,8 @@ Processing을 이용한 프로젝트들
 
 #### <그림 1> 홍콩에 도착했을 때
 - 미세먼지가 가득한 우리 나라 하늘과 달리 구름 하나 없이 맑은 날이었던 점이 인상깊었다.
-<--<img src="https://user-images.githubusercontent.com/45448731/92331473-d6b0a580-f0b1-11ea-9f6a-b5a64723933b.png" width="360" height="240"> --!>
+<!--<img src="https://user-images.githubusercontent.com/45448731/92331473-d6b0a580-f0b1-11ea-9f6a-b5a64723933b.png" width="360" height="240"> -->
+
 ![image](https://user-images.githubusercontent.com/45448731/92331473-d6b0a580-f0b1-11ea-9f6a-b5a64723933b.png)
 ![image](https://user-images.githubusercontent.com/45448731/92331474-d87a6900-f0b1-11ea-90a6-527c11e41c52.png)
 ![image](https://user-images.githubusercontent.com/45448731/92331477-d9ab9600-f0b1-11ea-8133-ddeccaeea79a.png)
