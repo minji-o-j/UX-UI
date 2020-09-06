@@ -29,7 +29,7 @@ Processing을 이용한 프로젝트들
 - 뒤의 배경의 원이 벽에 부딫치며 비눗방울이 튕겨나오는 듯한 느낌을 준다.
 <br>
 
-### 하버시티
+### 3: 하버시티
 ![image](https://user-images.githubusercontent.com/45448731/92331477-d9ab9600-f0b1-11ea-8133-ddeccaeea79a.png)
 ![image](https://user-images.githubusercontent.com/45448731/92331479-dadcc300-f0b1-11ea-9664-c3d504f63352.png)
 
