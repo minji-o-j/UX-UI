@@ -38,7 +38,7 @@ Processing을 이용한 프로젝트들
 
 ### 4. 심포니 오브 라이트 
 <!--![image](https://user-images.githubusercontent.com/45448731/92331479-dadcc300-f0b1-11ea-9664-c3d504f63352.png)-->
-#![image](https://im4.ezgif.com/tmp/ezgif-4-97470c16c6e4.gif)
+#![image](https://im4.ezgif.com/tmp/ezgif-4-5c3a17fc4ceb.gif)
 - 출국 전 날에 보았던 심포니 오브 라이트를 표현해 보았다.
 - 평소에 가만히 풍경을 보는 것을 좋아하는데 강가를 화려한 불빛과 레이져쇼와 함께 보니 매우 멋지다는 생각이 들어 레이져와 빛나는 건물들을 표현해보았다.
 - 밤에 건물들이 화려하게 빛나고 있어서 형광색의 별 모양으로 버튼을 디자인하였다.
