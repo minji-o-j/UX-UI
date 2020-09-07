@@ -31,7 +31,7 @@ Processing을 이용한 프로젝트들
 
 ### 3: 하버시티
 <!--![image](https://user-images.githubusercontent.com/45448731/92331477-d9ab9600-f0b1-11ea-8133-ddeccaeea79a.png)-->
-![image](https://im4.ezgif.com/tmp/ezgif-4-97470c16c6e4.gif)
+![image](https://im4.ezgif.com/tmp/ezgif-4-97470c16c6e4.gif)  
 - 새벽에 하버시티를 갔는데 매장의 불은 다 꺼져있었지만 하늘에 보이는 간판들과 가로등이 빛나는 모습이 마치 형형색색으로 하늘만 빛나고 있는 듯한 느낌이 들었다
 - 시간이 새벽이었기 때문에 버튼 모양을 달 모양으로 디자인하였다.
 - 마우스를 움직일 때 마다 하늘의 색이 변한다.
@@ -39,7 +39,7 @@ Processing을 이용한 프로젝트들
 
 ### 4. 심포니 오브 라이트 
 <!--![image](https://user-images.githubusercontent.com/45448731/92331479-dadcc300-f0b1-11ea-9664-c3d504f63352.png)-->
-![image]()
+![image](https://im4.ezgif.com/tmp/ezgif-4-97470c16c6e4.gif)
 - 출국 전 날에 보았던 심포니 오브 라이트를 표현해 보았다.
 - 평소에 가만히 풍경을 보는 것을 좋아하는데 강가를 화려한 불빛과 레이져쇼와 함께 보니 매우 멋지다는 생각이 들어 레이져와 빛나는 건물들을 표현해보았다.
 - 밤에 건물들이 화려하게 빛나고 있어서 형광색의 별 모양으로 버튼을 디자인하였다.
