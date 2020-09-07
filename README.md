@@ -31,7 +31,7 @@ Processing을 이용한 프로젝트들
 
 ### 3: 하버시티
 <!--![image](https://user-images.githubusercontent.com/45448731/92331477-d9ab9600-f0b1-11ea-8133-ddeccaeea79a.png)-->
-![image]()
+![image](https://im4.ezgif.com/tmp/ezgif-4-97470c16c6e4.gif)
 - 새벽에 하버시티를 갔는데 매장의 불은 다 꺼져있었지만 하늘에 보이는 간판들과 가로등이 빛나는 모습이 마치 형형색색으로 하늘만 빛나고 있는 듯한 느낌이 들었다
 - 시간이 새벽이었기 때문에 버튼 모양을 달 모양으로 디자인하였다.
 - 마우스를 움직일 때 마다 하늘의 색이 변한다.
