@@ -22,7 +22,7 @@ Processing을 이용한 프로젝트들
 
 ### 2: 디즈니랜드
 <!--![image](https://user-images.githubusercontent.com/45448731/92331474-d87a6900-f0b1-11ea-90a6-527c11e41c52.png)-->
-![image]()
+![image](https://im4.ezgif.com/tmp/ezgif-4-f7bb9ef4943c.gif)
 - 디즈니랜드에서 신나게 놀아 방방 떠있는 기분을 배경에 비눗방울처럼 나타내보았다.
 - 놀다 지쳐서 디즈니랜드를 나왔을 때 해가 지고 있던 모습이 떠올라 하늘을 노을처럼 표현해보았다.
 - 디즈니의 미키마우스 캐릭터를 연상시키는 모양으로 버튼을 디자인하였다.
