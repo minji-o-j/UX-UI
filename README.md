@@ -14,7 +14,7 @@ Processing을 이용한 프로젝트들
 
 ### 1: 홍콩 도착
 <!--![image](https://user-images.githubusercontent.com/45448731/92331473-d6b0a580-f0b1-11ea-9f6a-b5a64723933b.png)-->
-![image](https://im4.ezgif.com/tmp/ezgif-4-b204c49a6fc2.gif)
+![image](https://github.com/minji-o-j/UX-UI/blob/master/capture/1.gif?raw=true)
 - 미세먼지가 가득한 우리 나라 하늘과 달리 구름 하나 없이 맑은 날이었던 점이 인상깊었다.
 - 맑은 날씨의 홍콩을 나타내었기 때문에 버튼을 해 모양으로 디자인하였다.
 <br>
